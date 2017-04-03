@@ -1,0 +1,62 @@
+body{
+margin: auto 100px;
+}
+
+h1{
+color: #3c9892
+}
+
+h2{
+margin: 0;
+}
+
+table{
+border-collapse: collapse;
+}
+
+td{
+padding: 6px;
+border: 1px solid black;
+text-align: center;
+}
+
+.blue{
+color: blue;
+}
+
+.red{
+color: red;
+}
+
+.yellow{
+color: yellow;
+}
+
+.purple{
+color: purple;
+}
+
+.green{
+color: green;
+text-align: left;
+}
+
+#pink{
+color: #ff00de;
+}
+
+.underline{
+text-decoration: underline;
+}
+
+#gold{
+color: #959400;
+}
+
+.strong{
+font-weight: bold;
+}
+
+.cursiva{
+font-style: italic;
+}
